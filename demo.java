@@ -2,6 +2,6 @@ class demo
 {
 public static void main(String args[])
 {
-System.out.println("Java demo program");
+System.out.println("Java demo program modified");
 }
 }
